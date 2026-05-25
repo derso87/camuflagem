@@ -15,14 +15,14 @@ Extraia o script e altere a permissão com o comando:
 
 
 ```bash
-  chmod +x steghide-script-v0.01.sh
+  chmod +x steghide-script.sh
 ```
 
 Execute o script:
 
 
 ```bash
-  ./steghide-script-v0.01.sh
+  ./steghide-script.sh
 
 ```
 
