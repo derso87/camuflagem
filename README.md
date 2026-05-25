@@ -4,7 +4,7 @@ Script de estudo de uma ferramenta grafica para uso do steghide para ocultar arq
 
 
 ## Dependências
-Esse script ao executar checa se as dependencias estão instaladas (steghide e YAD) e se não estiverem instaladas baixa e instala.
+Esse script ao executar checa se as dependências estão instaladas e se não estiverem baixa e instala.
 
 <img width="659" height="503" alt="dependencia" src="https://github.com/user-attachments/assets/c1f2a88b-b5b1-480e-8534-a3500b685a6e" />
 
@@ -26,6 +26,7 @@ Execute o script:
 
 ```
 
-<img width="437" height="303" alt="tela" src="https://github.com/user-attachments/assets/421841e3-35f6-407f-983f-8bf48318a752" />
+<img width="436" height="343" alt="tela2" src="https://github.com/user-attachments/assets/fa46ab6f-68e1-41b0-8fae-640967cc1ef2" />
+
 
 Como é possivel ver o script é bem intuitivo, tendo as opções de ocultar um arquivo em uma imagem ou audio (Camuflar) e a opção de extrair o arquivo "Camuflado".
